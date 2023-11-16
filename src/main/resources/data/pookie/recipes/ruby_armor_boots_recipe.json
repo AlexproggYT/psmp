@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:ruby"
+    },
+    "2": {
+      "item": "pookie:ruby"
+    },
+    "3": {
+      "item": "pookie:ruby"
+    },
+    "5": {
+      "item": "pookie:ruby"
+    }
+  },
+  "result": {
+    "item": "pookie:ruby_armor_boots",
+    "count": 1
+  }
+}

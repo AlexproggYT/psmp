@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mmtex2"
+      },
+      "name": "default"
+    }
+  }
+}

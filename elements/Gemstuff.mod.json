@@ -1,0 +1,66 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Nebula"
+      },
+      {
+        "value": "CUSTOM:Ruby"
+      },
+      {
+        "value": "CUSTOM:Saphire"
+      },
+      {
+        "value": "CUSTOM:Rosequartz"
+      },
+      {
+        "value": "CUSTOM:Pedrolium"
+      },
+      {
+        "value": "Items.DYE#4"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "Items.ECHO_SHARD"
+      },
+      {
+        "value": "CUSTOM:Peridot"
+      },
+      {
+        "value": "CUSTOM:Opal"
+      },
+      {
+        "value": "CUSTOM:Alexandrite"
+      },
+      {
+        "value": "CUSTOM:Magmite"
+      },
+      {
+        "value": "CUSTOM:Rutiles"
+      },
+      {
+        "value": "CUSTOM:Blackiron"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "gemstuff",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "pookie:block/voidlantern",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "pookie:block/voidlantern"
+    },
+    "axis=z": {
+      "model": "pookie:block/voidlantern",
+      "x": 90
+    }
+  }
+}

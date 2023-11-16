@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pookie:block/topaz_ore",
+    "particle": "pookie:block/topaz_ore"
+  },
+  "render_type": "solid"
+}

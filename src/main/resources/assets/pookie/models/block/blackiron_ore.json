@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pookie:block/blackiron_ore",
+    "particle": "pookie:block/blackiron_ore"
+  },
+  "render_type": "solid"
+}

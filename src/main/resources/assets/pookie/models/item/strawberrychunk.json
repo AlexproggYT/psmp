@@ -1,0 +1,7 @@
+{
+  "parent": "pookie:custom/strawberrychunk",
+  "textures": {
+    "0": "pookie:block/strawberrytexture",
+    "particle": "pookie:item/strawberrychunk"
+  }
+}

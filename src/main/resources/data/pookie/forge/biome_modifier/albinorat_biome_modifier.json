@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "plains",
+  "spawners": {
+    "type": "pookie:albinorat",
+    "weight": 3,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

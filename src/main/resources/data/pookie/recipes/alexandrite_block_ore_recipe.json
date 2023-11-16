@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pookie:alexandrite_block"
+    }
+  ],
+  "result": {
+    "item": "pookie:alexandrite",
+    "count": 9
+  }
+}

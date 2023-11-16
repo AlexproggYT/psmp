@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:peridot"
+    },
+    "1": {
+      "item": "pookie:peridot"
+    },
+    "2": {
+      "item": "pookie:peridot"
+    },
+    "3": {
+      "item": "pookie:peridot"
+    },
+    "4": {
+      "item": "pookie:peridot"
+    },
+    "5": {
+      "item": "pookie:peridot"
+    },
+    "6": {
+      "item": "pookie:peridot"
+    },
+    "7": {
+      "item": "pookie:peridot"
+    },
+    "8": {
+      "item": "pookie:peridot"
+    }
+  },
+  "result": {
+    "item": "pookie:peridot_block",
+    "count": 1
+  }
+}

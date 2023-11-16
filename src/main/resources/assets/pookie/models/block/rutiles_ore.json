@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pookie:block/rutiles_ore",
+    "particle": "pookie:block/rutiles_ore"
+  },
+  "render_type": "solid"
+}

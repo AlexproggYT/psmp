@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "warm_ocean",
+    "plains"
+  ],
+  "features": "pookie:onionblock",
+  "step": "underground_ores"
+}

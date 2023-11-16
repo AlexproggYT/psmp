@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "pookie:tearyplains",
+  "spawners": {
+    "type": "pookie:onioncreeper",
+    "weight": 1,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

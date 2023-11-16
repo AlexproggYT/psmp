@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pookie:rhyolite_block"
+    }
+  ],
+  "result": {
+    "item": "pookie:rhyolite_dust",
+    "count": 9
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:opal"
+    },
+    "1": {
+      "item": "pookie:opal"
+    },
+    "2": {
+      "item": "pookie:opal"
+    },
+    "3": {
+      "item": "pookie:opal"
+    },
+    "5": {
+      "item": "pookie:opal"
+    },
+    "6": {
+      "item": "pookie:opal"
+    },
+    "8": {
+      "item": "pookie:opal"
+    }
+  },
+  "result": {
+    "item": "pookie:opal_armor_leggings",
+    "count": 1
+  }
+}

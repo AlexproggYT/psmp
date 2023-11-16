@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:cautiondye"
+      },
+      {
+        "value": "CUSTOM:Steelplateblock"
+      },
+      {
+        "value": "TAG:cautiondye"
+      },
+      {
+        "value": "CUSTOM:Steelplateblock"
+      },
+      {
+        "value": "TAG:cautiondye"
+      },
+      {
+        "value": "CUSTOM:Steelrod"
+      },
+      {
+        "value": "TAG:cautiondye"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Maintenancemagic"
+    },
+    "name": "mmagicrec",
+    "namespace": "mod"
+  }
+}

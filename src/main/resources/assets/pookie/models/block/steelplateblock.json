@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pookie:block/steelblock",
+    "particle": "pookie:block/steelblock"
+  },
+  "render_type": "solid"
+}

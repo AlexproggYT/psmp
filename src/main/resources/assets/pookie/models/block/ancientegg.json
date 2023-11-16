@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pookie:block/ancegg",
+    "up": "pookie:block/anceggtop",
+    "north": "pookie:block/ancegg",
+    "east": "pookie:block/ancegg",
+    "south": "pookie:block/ancegg",
+    "west": "pookie:block/ancegg",
+    "particle": "pookie:block/ancegg"
+  },
+  "render_type": "solid"
+}

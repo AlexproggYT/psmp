@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pookie:block/strawberrysidebottom",
+    "up": "pookie:block/strawberrytop",
+    "north": "pookie:block/strawberrysidebottom",
+    "east": "pookie:block/strawberrysidebottom",
+    "south": "pookie:block/strawberrysidebottom",
+    "west": "pookie:block/strawberrysidebottom",
+    "particle": "pookie:block/strawberrysidebottom"
+  },
+  "render_type": "solid"
+}

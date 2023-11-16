@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:steelplate"
+    },
+    "1": {
+      "item": "pookie:steelplate"
+    },
+    "2": {
+      "item": "pookie:steelplate"
+    },
+    "3": {
+      "item": "pookie:steelplate"
+    },
+    "4": {
+      "item": "pookie:steeldisc"
+    },
+    "5": {
+      "item": "pookie:steelplate"
+    },
+    "6": {
+      "item": "pookie:steelplate"
+    },
+    "7": {
+      "item": "pookie:steelplate"
+    },
+    "8": {
+      "item": "pookie:steelplate"
+    }
+  },
+  "result": {
+    "item": "pookie:steelplateblock",
+    "count": 10
+  }
+}

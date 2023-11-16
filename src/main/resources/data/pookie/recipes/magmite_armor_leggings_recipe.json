@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:magmite"
+    },
+    "1": {
+      "item": "pookie:magmite"
+    },
+    "2": {
+      "item": "pookie:magmite"
+    },
+    "3": {
+      "item": "pookie:magmite"
+    },
+    "5": {
+      "item": "pookie:magmite"
+    },
+    "6": {
+      "item": "pookie:magmite"
+    },
+    "8": {
+      "item": "pookie:magmite"
+    }
+  },
+  "result": {
+    "item": "pookie:magmite_armor_leggings",
+    "count": 1
+  }
+}

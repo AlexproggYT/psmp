@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "pookie:block/steelsheet",
+    "top": "pookie:block/ancegg",
+    "side": "pookie:block/steelvent",
+    "overlay": "pookie:block/steelvent",
+    "particle": "pookie:block/steelsheet"
+  },
+  "render_type": "cutout_mipped"
+}

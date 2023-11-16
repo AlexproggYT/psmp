@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:rutiles"
+    },
+    "2": {
+      "item": "pookie:rutiles"
+    },
+    "3": {
+      "item": "pookie:rutiles"
+    },
+    "4": {
+      "item": "pookie:rutiles"
+    },
+    "5": {
+      "item": "pookie:rutiles"
+    },
+    "6": {
+      "item": "pookie:rutiles"
+    },
+    "7": {
+      "item": "pookie:rutiles"
+    },
+    "8": {
+      "item": "pookie:rutiles"
+    }
+  },
+  "result": {
+    "item": "pookie:rutiles_armor_chestplate",
+    "count": 1
+  }
+}

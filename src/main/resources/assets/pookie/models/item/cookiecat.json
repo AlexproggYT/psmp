@@ -1,0 +1,7 @@
+{
+  "parent": "pookie:custom/cookiecat",
+  "textures": {
+    "0": "pookie:block/cookiecattexture",
+    "particle": "pookie:item/cct"
+  }
+}

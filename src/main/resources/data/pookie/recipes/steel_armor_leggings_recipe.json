@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:steelingot"
+    },
+    "1": {
+      "item": "pookie:steelingot"
+    },
+    "2": {
+      "item": "pookie:steelingot"
+    },
+    "3": {
+      "item": "pookie:steelingot"
+    },
+    "5": {
+      "item": "pookie:steelingot"
+    },
+    "6": {
+      "item": "pookie:steelingot"
+    },
+    "8": {
+      "item": "pookie:steelingot"
+    }
+  },
+  "result": {
+    "item": "pookie:steel_armor_leggings",
+    "count": 1
+  }
+}

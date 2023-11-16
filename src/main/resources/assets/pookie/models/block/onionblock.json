@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pookie:block/onionbottom",
+    "up": "pookie:block/oniontop",
+    "north": "pookie:block/onionside",
+    "east": "pookie:block/onionside",
+    "south": "pookie:block/onionside",
+    "west": "pookie:block/onionside",
+    "particle": "pookie:block/onionbottom"
+  },
+  "render_type": "solid"
+}

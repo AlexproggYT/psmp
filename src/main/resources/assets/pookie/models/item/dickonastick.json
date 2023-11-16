@@ -1,0 +1,7 @@
+{
+  "parent": "pookie:custom/ppdickdongvagina",
+  "textures": {
+    "0": "pookie:block/texture_1",
+    "particle": "pookie:item/texture_1"
+  }
+}

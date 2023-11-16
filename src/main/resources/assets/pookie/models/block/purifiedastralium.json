@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pookie:block/pureifiedast",
+    "up": "pookie:block/pureifiedast",
+    "north": "pookie:block/pureifiedast",
+    "east": "pookie:block/pureifiedast",
+    "south": "pookie:block/pureifiedast",
+    "west": "pookie:block/pureifiedast",
+    "particle": "pookie:block/pureifiedast"
+  },
+  "render_type": "solid"
+}

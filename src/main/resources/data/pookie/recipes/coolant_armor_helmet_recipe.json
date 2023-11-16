@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:coolant_ingot"
+    },
+    "1": {
+      "item": "pookie:coolant_ingot"
+    },
+    "2": {
+      "item": "pookie:coolant_ingot"
+    },
+    "3": {
+      "item": "pookie:coolant_ingot"
+    },
+    "5": {
+      "item": "pookie:coolant_ingot"
+    }
+  },
+  "result": {
+    "item": "pookie:coolant_armor_helmet",
+    "count": 1
+  }
+}

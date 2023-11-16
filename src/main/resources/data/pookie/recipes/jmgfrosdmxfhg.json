@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pookie:strawberrychunk"
+    },
+    {
+      "item": "pookie:strawberrychunk"
+    },
+    {
+      "item": "pookie:strawberrychunk"
+    },
+    {
+      "item": "pookie:strawberrychunk"
+    },
+    {
+      "item": "pookie:strawberrychunk"
+    },
+    {
+      "item": "pookie:strawberrychunk"
+    },
+    {
+      "item": "pookie:strawberrychunk"
+    },
+    {
+      "item": "pookie:strawberrychunk"
+    },
+    {
+      "item": "pookie:strawberrychunk"
+    }
+  ],
+  "result": {
+    "item": "pookie:giantstrawberry",
+    "count": 1
+  }
+}

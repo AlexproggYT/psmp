@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="up until this point i have no idea what a license is or how to use one"
+
+[[mods]]
+modId="pookie"
+version="6.9.4.20"
+displayName="psmp"
+credits="check out MCreator they helped alot: https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="some hobo from the streets, MCreator(the generator used to make this)"
+description="random crap not much else to say besides 'random crap'"
+
+[[dependencies.pookie]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

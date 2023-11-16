@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:pedrolium"
+    },
+    "1": {
+      "item": "pookie:pedrolium"
+    },
+    "2": {
+      "item": "pookie:pedrolium"
+    },
+    "3": {
+      "item": "pookie:pedrolium"
+    },
+    "4": {
+      "item": "pookie:pedrolium"
+    },
+    "5": {
+      "item": "pookie:pedrolium"
+    },
+    "6": {
+      "item": "pookie:pedrolium"
+    },
+    "7": {
+      "item": "pookie:pedrolium"
+    },
+    "8": {
+      "item": "pookie:pedrolium"
+    }
+  },
+  "result": {
+    "item": "pookie:pedrolium_block",
+    "count": 1
+  }
+}

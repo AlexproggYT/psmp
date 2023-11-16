@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pookie:onion"
+    },
+    {
+      "item": "pookie:onion"
+    },
+    {
+      "item": "pookie:onion"
+    },
+    {
+      "item": "pookie:onion"
+    },
+    {
+      "item": "pookie:onion"
+    },
+    {
+      "item": "pookie:onion"
+    },
+    {
+      "item": "pookie:onion"
+    },
+    {
+      "item": "pookie:onion"
+    },
+    {
+      "item": "pookie:onion"
+    }
+  ],
+  "result": {
+    "item": "pookie:onionblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:magmite"
+    },
+    "1": {
+      "item": "pookie:magmite"
+    },
+    "2": {
+      "item": "pookie:magmite"
+    },
+    "3": {
+      "item": "pookie:magmite"
+    },
+    "4": {
+      "item": "pookie:magmite"
+    },
+    "5": {
+      "item": "pookie:magmite"
+    },
+    "6": {
+      "item": "pookie:magmite"
+    },
+    "7": {
+      "item": "pookie:magmite"
+    },
+    "8": {
+      "item": "pookie:magmite"
+    }
+  },
+  "result": {
+    "item": "pookie:magmite_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "pookie:tearyplains",
+    "pookie:greatbeyond"
+  ],
+  "features": "pookie:onionpatc",
+  "step": "vegetal_decoration"
+}

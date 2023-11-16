@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:saphire"
+    },
+    "1": {
+      "item": "pookie:saphire"
+    },
+    "2": {
+      "item": "pookie:saphire"
+    },
+    "3": {
+      "item": "pookie:saphire"
+    },
+    "5": {
+      "item": "pookie:saphire"
+    }
+  },
+  "result": {
+    "item": "pookie:saphire_armor_helmet",
+    "count": 1
+  }
+}

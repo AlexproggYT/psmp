@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:nebula"
+    },
+    "1": {
+      "item": "pookie:nebula"
+    },
+    "2": {
+      "item": "pookie:nebula"
+    },
+    "3": {
+      "item": "pookie:nebula"
+    },
+    "5": {
+      "item": "pookie:nebula"
+    },
+    "6": {
+      "item": "pookie:nebula"
+    },
+    "8": {
+      "item": "pookie:nebula"
+    }
+  },
+  "result": {
+    "item": "pookie:nebula_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "pookie:custom/baguette",
+  "textures": {
+    "0": "pookie:block/baguettetexture",
+    "particle": "pookie:item/baguette2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:sunstone_dust"
+    },
+    "1": {
+      "item": "pookie:sunstone_dust"
+    },
+    "2": {
+      "item": "pookie:sunstone_dust"
+    },
+    "3": {
+      "item": "pookie:sunstone_dust"
+    },
+    "5": {
+      "item": "pookie:sunstone_dust"
+    }
+  },
+  "result": {
+    "item": "pookie:sunstone_armor_helmet",
+    "count": 1
+  }
+}

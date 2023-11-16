@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:saphire"
+    },
+    "1": {
+      "item": "pookie:saphire"
+    },
+    "2": {
+      "item": "pookie:saphire"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pookie:saphire_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Victim",
+    "texture": "dererererg",
+    "description": "wawa cat",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:victimmus"
+    },
+    "lengthInTicks": 3600,
+    "analogOutput": 8
+  }
+}

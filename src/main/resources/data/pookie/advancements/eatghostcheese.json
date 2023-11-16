@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:blaze_powder"
+    },
+    "title": {
+      "translate": "advancements.eatghostcheese.title"
+    },
+    "description": {
+      "translate": "advancements.eatghostcheese.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eatghostcheese": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "pookie:ghostcheese"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "minecraft:nether/root"
+}

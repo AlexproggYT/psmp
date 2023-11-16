@@ -1,0 +1,7 @@
+{
+  "parent": "randomstuff:custom/model",
+  "textures": {
+    "0": "randomstuff:blocks/texture_1",
+    "particle": "randomstuff:items/t"
+  }
+}

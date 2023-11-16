@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "pookie:block/steelsheet",
+    "top": "pookie:block/steelsheet",
+    "side": "pookie:block/steelsheet"
+  },
+  "render_type": "solid"
+}

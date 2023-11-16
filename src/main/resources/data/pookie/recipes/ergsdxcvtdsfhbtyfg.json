@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pookie:cheese"
+    },
+    {
+      "item": "pookie:cheese"
+    },
+    {
+      "item": "pookie:cheese"
+    },
+    {
+      "item": "pookie:cheese"
+    },
+    {
+      "item": "pookie:cheese"
+    },
+    {
+      "item": "pookie:cheese"
+    },
+    {
+      "item": "pookie:cheese"
+    },
+    {
+      "item": "pookie:cheese"
+    },
+    {
+      "item": "pookie:cheese"
+    }
+  ],
+  "result": {
+    "item": "pookie:cheeseblock",
+    "count": 1
+  }
+}

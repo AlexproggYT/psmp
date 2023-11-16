@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "pookie:block/steelboardslab"
+    },
+    "type=top": {
+      "model": "pookie:block/steelboardslab_top"
+    },
+    "type=double": {
+      "model": "pookie:block/steelboardslab_full"
+    }
+  }
+}

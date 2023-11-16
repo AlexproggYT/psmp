@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "tag": "cautiondye"
+    },
+    "2": {
+      "item": "pookie:steelplateblock"
+    },
+    "3": {
+      "tag": "cautiondye"
+    },
+    "4": {
+      "item": "pookie:steelplateblock"
+    },
+    "5": {
+      "tag": "cautiondye"
+    },
+    "6": {
+      "item": "pookie:steelrod"
+    },
+    "7": {
+      "tag": "cautiondye"
+    }
+  },
+  "result": {
+    "item": "pookie:maintenancemagic",
+    "count": 1
+  }
+}

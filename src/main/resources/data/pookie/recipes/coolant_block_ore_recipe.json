@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pookie:coolant_block"
+    }
+  ],
+  "result": {
+    "item": "pookie:coolant_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:topaz_ingot"
+    },
+    "2": {
+      "item": "pookie:topaz_ingot"
+    },
+    "3": {
+      "item": "pookie:topaz_ingot"
+    },
+    "5": {
+      "item": "pookie:topaz_ingot"
+    }
+  },
+  "result": {
+    "item": "pookie:topaz_armor_boots",
+    "count": 1
+  }
+}

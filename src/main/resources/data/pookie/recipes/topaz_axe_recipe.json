@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:topaz_ingot"
+    },
+    "1": {
+      "item": "pookie:topaz_ingot"
+    },
+    "2": {
+      "item": "pookie:topaz_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pookie:topaz_axe",
+    "count": 1
+  }
+}

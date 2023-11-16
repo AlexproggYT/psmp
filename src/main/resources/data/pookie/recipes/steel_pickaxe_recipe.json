@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:steelingot"
+    },
+    "1": {
+      "item": "pookie:steelingot"
+    },
+    "2": {
+      "item": "pookie:steelingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pookie:steel_pickaxe",
+    "count": 1
+  }
+}

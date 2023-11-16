@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pookie:block/cheeseblock",
+    "up": "pookie:block/cheeseblock",
+    "north": "pookie:block/cheeseblock",
+    "east": "pookie:block/cheeseblock",
+    "south": "pookie:block/cheeseblock",
+    "west": "pookie:block/cheeseblock",
+    "particle": "pookie:block/cheeseblock"
+  },
+  "render_type": "solid"
+}

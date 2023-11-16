@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pookie:block/rosequartz_ore",
+    "particle": "pookie:block/rosequartz_ore"
+  },
+  "render_type": "solid"
+}

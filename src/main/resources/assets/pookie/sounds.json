@@ -1,0 +1,142 @@
+{
+  "rathurt": {
+    "subtitle": "subtitles.rathurt",
+    "sounds": [
+      {
+        "name": "pookie:hit1",
+        "stream": false
+      },
+      {
+        "name": "pookie:hit2",
+        "stream": false
+      },
+      {
+        "name": "pookie:hit3",
+        "stream": false
+      }
+    ]
+  },
+  "ratsay": {
+    "subtitle": "subtitles.ratsay",
+    "sounds": [
+      {
+        "name": "pookie:say1",
+        "stream": false
+      },
+      {
+        "name": "pookie:say2",
+        "stream": false
+      },
+      {
+        "name": "pookie:say3",
+        "stream": false
+      },
+      {
+        "name": "pookie:say4",
+        "stream": false
+      }
+    ]
+  },
+  "ratstep": {
+    "subtitle": "subtitles.ratstep",
+    "sounds": [
+      {
+        "name": "pookie:step1",
+        "stream": false
+      },
+      {
+        "name": "pookie:step2",
+        "stream": false
+      },
+      {
+        "name": "pookie:step3",
+        "stream": false
+      },
+      {
+        "name": "pookie:step4",
+        "stream": false
+      }
+    ]
+  },
+  "ratdies": {
+    "subtitle": "subtitles.ratdies",
+    "sounds": [
+      {
+        "name": "pookie:kill",
+        "stream": false
+      }
+    ]
+  },
+  "hi": {
+    "subtitle": "subtitles.hi",
+    "sounds": [
+      {
+        "name": "pookie:toxic",
+        "stream": true
+      }
+    ]
+  },
+  "pizza": {
+    "subtitle": "subtitles.pizza",
+    "sounds": [
+      {
+        "name": "pookie:pizza",
+        "stream": true
+      }
+    ]
+  },
+  "pedro": {
+    "subtitle": "subtitles.pedro",
+    "sounds": [
+      {
+        "name": "pookie:lemon",
+        "stream": true
+      }
+    ]
+  },
+  "mmagichitsound": {
+    "subtitle": "subtitles.mmagichitsound",
+    "sounds": [
+      {
+        "name": "pookie:something_really_cool",
+        "stream": false
+      }
+    ]
+  },
+  "lunarabyss": {
+    "subtitle": "subtitles.lunarabyss",
+    "sounds": [
+      {
+        "name": "pookie:lunar",
+        "stream": true
+      }
+    ]
+  },
+  "victimmus": {
+    "subtitle": "subtitles.victimmus",
+    "sounds": [
+      {
+        "name": "pookie:anikdote-victim-_lyrics_-_ft.-aminita-francis_",
+        "stream": true
+      }
+    ]
+  },
+  "crossthemeremixmus": {
+    "subtitle": "subtitles.crossthemeremixmus",
+    "sounds": [
+      {
+        "name": "pookie:underverse-cross-theme-_revex-remix",
+        "stream": true
+      }
+    ]
+  },
+  "darlingmus": {
+    "subtitle": "subtitles.darlingmus",
+    "sounds": [
+      {
+        "name": "pookie:utaukaba_-darin-_darling_-darin-prism_-ust",
+        "stream": true
+      }
+    ]
+  }
+}

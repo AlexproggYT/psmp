@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pookie:peridot_block"
+    }
+  ],
+  "result": {
+    "item": "pookie:peridot",
+    "count": 9
+  }
+}

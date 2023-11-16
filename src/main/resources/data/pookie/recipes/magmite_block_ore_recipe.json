@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pookie:magmite_block"
+    }
+  ],
+  "result": {
+    "item": "pookie:magmite",
+    "count": 9
+  }
+}

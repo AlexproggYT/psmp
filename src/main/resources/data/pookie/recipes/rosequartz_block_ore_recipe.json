@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pookie:rosequartz_block"
+    }
+  ],
+  "result": {
+    "item": "pookie:rosequartz",
+    "count": 9
+  }
+}

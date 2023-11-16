@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:rosequartz"
+    },
+    "1": {
+      "item": "pookie:rosequartz"
+    },
+    "2": {
+      "item": "pookie:rosequartz"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pookie:rosequartz_pickaxe",
+    "count": 1
+  }
+}

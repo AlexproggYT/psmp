@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Rutiles"
+      },
+      {
+        "value": "CUSTOM:Rutiles"
+      },
+      {
+        "value": "CUSTOM:Rutiles"
+      },
+      {
+        "value": "CUSTOM:Rutiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Rutiles"
+      },
+      {
+        "value": "CUSTOM:Rutiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Rutiles"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RutilesArmor.legs"
+    },
+    "name": "rutiles_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

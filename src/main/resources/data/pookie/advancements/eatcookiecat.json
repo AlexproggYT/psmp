@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "pookie:cookiecat"
+    },
+    "title": {
+      "translate": "advancements.eatcookiecat.title"
+    },
+    "description": {
+      "translate": "advancements.eatcookiecat.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eatcookiecat": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "pookie:cookiecat"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "minecraft:husbandry/root"
+}

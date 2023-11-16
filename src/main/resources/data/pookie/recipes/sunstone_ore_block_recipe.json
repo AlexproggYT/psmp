@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:sunstone_dust"
+    },
+    "1": {
+      "item": "pookie:sunstone_dust"
+    },
+    "2": {
+      "item": "pookie:sunstone_dust"
+    },
+    "3": {
+      "item": "pookie:sunstone_dust"
+    },
+    "4": {
+      "item": "pookie:sunstone_dust"
+    },
+    "5": {
+      "item": "pookie:sunstone_dust"
+    },
+    "6": {
+      "item": "pookie:sunstone_dust"
+    },
+    "7": {
+      "item": "pookie:sunstone_dust"
+    },
+    "8": {
+      "item": "pookie:sunstone_dust"
+    }
+  },
+  "result": {
+    "item": "pookie:sunstone_block",
+    "count": 1
+  }
+}

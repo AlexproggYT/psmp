@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "pookie:alexandrite"
+    },
+    "1": {
+      "item": "pookie:alexandrite"
+    },
+    "2": {
+      "item": "pookie:alexandrite"
+    },
+    "3": {
+      "item": "pookie:alexandrite"
+    },
+    "4": {
+      "item": "pookie:alexandrite"
+    },
+    "5": {
+      "item": "pookie:alexandrite"
+    },
+    "6": {
+      "item": "pookie:alexandrite"
+    },
+    "7": {
+      "item": "pookie:alexandrite"
+    },
+    "8": {
+      "item": "pookie:alexandrite"
+    }
+  },
+  "result": {
+    "item": "pookie:alexandrite_block",
+    "count": 1
+  }
+}

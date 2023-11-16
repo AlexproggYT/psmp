@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "pookie:block/steelsheet",
+    "top": "pookie:block/steelsheet",
+    "side": "pookie:block/steelsheet"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "pookie:block/stardirt",
+    "top": "pookie:block/stardirt",
+    "side": "pookie:block/stardirt",
+    "overlay": "pookie:block/stardirt",
+    "particle": "pookie:block/stardirt"
+  },
+  "render_type": "solid"
+}

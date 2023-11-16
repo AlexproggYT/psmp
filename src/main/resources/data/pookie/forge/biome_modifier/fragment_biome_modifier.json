@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "pookie:beyond",
+  "spawners": {
+    "type": "pookie:fragment",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

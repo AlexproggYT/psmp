@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pookie:cheeseblock"
+    }
+  ],
+  "result": {
+    "item": "pookie:cheese",
+    "count": 9
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pookie:block/rhyolite_ore",
+    "particle": "pookie:block/rhyolite_ore"
+  },
+  "render_type": "solid"
+}
