@@ -1,9 +1,0 @@
-{
-  "parent": "block/cube_bottom_top",
-  "textures": {
-    "bottom": "pookie:block/steelboards",
-    "top": "pookie:block/steelboards",
-    "side": "pookie:block/steelboards"
-  },
-  "render_type": "solid"
-}

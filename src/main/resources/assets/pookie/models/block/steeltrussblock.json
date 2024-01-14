@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pookie:block/steeltruss",
-    "particle": "pookie:block/steeltruss"
-  },
-  "render_type": "cutout"
-}

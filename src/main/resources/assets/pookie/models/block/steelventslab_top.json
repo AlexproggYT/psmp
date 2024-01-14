@@ -1,9 +1,0 @@
-{
-  "parent": "block/slab_top",
-  "textures": {
-    "bottom": "pookie:block/steelvent",
-    "top": "pookie:block/steelvent",
-    "side": "pookie:block/steelvent"
-  },
-  "render_type": "solid"
-}

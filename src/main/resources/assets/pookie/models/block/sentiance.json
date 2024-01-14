@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pookie:block/solidpoisoni",
-    "particle": "pookie:block/solidpoisoni"
-  },
-  "render_type": "solid"
-}

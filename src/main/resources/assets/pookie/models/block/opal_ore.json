@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pookie:block/opal_ore",
-    "particle": "pookie:block/opal_ore"
-  },
-  "render_type": "solid"
-}

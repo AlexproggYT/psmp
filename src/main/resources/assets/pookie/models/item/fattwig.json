@@ -1,7 +1,0 @@
-{
-  "parent": "pookie:custom/twig",
-  "textures": {
-    "0": "pookie:block/twigtex",
-    "particle": "pookie:item/twigtex"
-  }
-}

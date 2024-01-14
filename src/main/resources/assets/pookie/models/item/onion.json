@@ -1,7 +1,0 @@
-{
-  "parent": "pookie:custom/onion",
-  "textures": {
-    "0": "pookie:block/oniontexture",
-    "particle": "pookie:item/onion"
-  }
-}

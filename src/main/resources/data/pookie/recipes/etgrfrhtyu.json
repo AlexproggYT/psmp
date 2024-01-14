@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 10,
-  "ingredient": {
-    "item": "pookie:steelplateblock"
-  },
-  "result": "pookie:steeltrussblock"
-}

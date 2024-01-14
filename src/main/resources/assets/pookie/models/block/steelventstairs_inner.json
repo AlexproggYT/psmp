@@ -1,9 +1,0 @@
-{
-  "parent": "block/inner_stairs",
-  "textures": {
-    "bottom": "pookie:block/steelvent",
-    "top": "pookie:block/steelvent",
-    "side": "pookie:block/steelvent"
-  },
-  "render_type": "solid"
-}

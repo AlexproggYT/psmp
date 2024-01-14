@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pookie:block/steelsheet",
-    "particle": "pookie:block/steelsheet"
-  },
-  "render_type": "solid"
-}

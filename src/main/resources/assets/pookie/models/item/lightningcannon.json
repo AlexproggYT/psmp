@@ -1,7 +1,0 @@
-{
-  "parent": "pookie:custom/lightningshit",
-  "textures": {
-    "0": "pookie:block/texture",
-    "particle": "pookie:item/texture"
-  }
-}

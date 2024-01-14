@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pookie:block/magmite_ore",
-    "particle": "pookie:block/magmite_ore"
-  },
-  "render_type": "solid"
-}

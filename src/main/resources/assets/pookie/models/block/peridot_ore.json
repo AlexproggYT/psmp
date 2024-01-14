@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pookie:block/peridot_ore",
-    "particle": "pookie:block/peridot_ore"
-  },
-  "render_type": "solid"
-}

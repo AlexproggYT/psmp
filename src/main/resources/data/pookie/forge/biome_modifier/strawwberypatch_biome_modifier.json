@@ -1,9 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": [
-    "beach",
-    "snowy_beach"
-  ],
-  "features": "pookie:strawwberypatch",
-  "step": "vegetal_decoration"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "block/outer_stairs",
-  "textures": {
-    "bottom": "pookie:block/steelboards",
-    "top": "pookie:block/steelboards",
-    "side": "pookie:block/steelboards"
-  },
-  "render_type": "solid"
-}

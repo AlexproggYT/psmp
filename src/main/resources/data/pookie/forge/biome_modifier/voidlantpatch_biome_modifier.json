@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "pookie:beyond",
-  "features": "pookie:voidlantpatch",
-  "step": "vegetal_decoration"
-}

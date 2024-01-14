@@ -1,7 +1,0 @@
-{
-  "parent": "pookie:custom/mmmod2",
-  "textures": {
-    "0": "pookie:block/mmtex2",
-    "particle": "pookie:item/mmtex2"
-  }
-}

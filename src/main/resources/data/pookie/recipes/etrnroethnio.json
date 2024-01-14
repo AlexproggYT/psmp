@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 4,
-  "ingredient": {
-    "item": "pookie:steelventblock"
-  },
-  "result": "pookie:steelventstairs"
-}
